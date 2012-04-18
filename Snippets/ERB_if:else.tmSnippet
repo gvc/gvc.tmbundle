@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;% if ${1:condition} %&gt;
+	$2
+&lt;% else %&gt;
+	$0
+&lt;% end -%&gt;</string>
+	<key>name</key>
+	<string>ERB.if/else</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>eife</string>
+	<key>uuid</key>
+	<string>6B2381DF-58A4-4C60-8363-FA229FEEEF8F</string>
+</dict>
+</plist>
