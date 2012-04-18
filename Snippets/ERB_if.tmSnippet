@@ -9,10 +9,7 @@
 	<key>name</key>
 	<string>ERB.if</string>
 	<key>scope</key>
-	<string>text.html.ruby
-text.html.ruby
-text.html.ruby
-text.html.ruby</string>
+	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>eif</string>
 	<key>uuid</key>
