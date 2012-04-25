@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string># encoding: utf-8
-
-</string>
+	<string>&lt;% end -%&gt;</string>
 	<key>name</key>
-	<string>UTF-8 encoded file</string>
+	<string>ERB.end</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>enc</string>
+	<string>end</string>
 	<key>uuid</key>
-	<string>A6E7A97C-C813-474E-B508-65F39E8493EC</string>
+	<string>2EE335E6-46FD-4343-9AD4-26ACDBFD0F39</string>
 </dict>
 </plist>

@@ -4,6 +4,14 @@
 <dict>
 	<key>name</key>
 	<string>gvc’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>169E922D-CB8C-43B9-9160-834704865471</string>
+		<string>6B2381DF-58A4-4C60-8363-FA229FEEEF8F</string>
+		<string>2EE335E6-46FD-4343-9AD4-26ACDBFD0F39</string>
+		<string>8AE43027-4FB7-4B70-9FE5-0EE7153B855F</string>
+		<string>A6E7A97C-C813-474E-B508-65F39E8493EC</string>
+	</array>
 	<key>uuid</key>
 	<string>76EAC4CE-DF8B-4458-B127-410990C547E6</string>
 </dict>

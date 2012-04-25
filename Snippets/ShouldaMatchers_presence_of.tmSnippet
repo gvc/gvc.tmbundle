@@ -3,16 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string># encoding: utf-8
-
-</string>
+	<string>it { should validate_presence_of(:${1:field}) }
+$0</string>
 	<key>name</key>
-	<string>UTF-8 encoded file</string>
+	<string>ShouldaMatchers.presence_of</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>enc</string>
+	<string>isvp</string>
 	<key>uuid</key>
-	<string>A6E7A97C-C813-474E-B508-65F39E8493EC</string>
+	<string>8AE43027-4FB7-4B70-9FE5-0EE7153B855F</string>
 </dict>
 </plist>
